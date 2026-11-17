@@ -6,3 +6,4 @@ h1{font-size:2rem;line-height:1.1;letter-spacing:-.02em;margin:0 0 8px}
 h2{font-size:1.15rem;margin:32px 0 8px}
 p,li{color:var(--fg)}.muted{color:var(--muted)}
 a{color:var(--accent)}nav{display:flex;gap:16px;margin-top:40px}
+nav.socials{margin-top:16px;flex-wrap:wrap}nav.socials a{font-weight:600;text-decoration:none}
